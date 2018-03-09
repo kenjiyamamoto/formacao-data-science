@@ -1,2 +1,8 @@
 # formacao-data-science
-Treinamento Udemy - Formação de Cientista de Dados
+(Treinamento Udemy)[https://www.udemy.com/cientista-de-dados/] - Formação de Cientista de Dados
+
+
+## Anotações sobre o Curso
+
+
+## Referências
