@@ -1,4 +1,4 @@
-# formacao-data-science
+# Formacao Data Science
 [Treinamento Udemy](https://www.udemy.com/cientista-de-dados/) - Formação de Cientista de Dados
 
 
